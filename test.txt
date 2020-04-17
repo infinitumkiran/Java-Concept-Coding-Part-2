@@ -1,0 +1,71 @@
+Written Round: The Written round mainly consists of three sections which include:
+Quantitative Aptitude Test:
+The first is the Quantitative Aptitude test where the numerical and the reasoning ability sections are tested. There are 10-25 questions that need to be attempted in the given times. There are 2-star questions which have more weight than normal questions and are a bit tricky. Important topics include Number system, Equations, Ratio and Proportion, Percentages, Profit and Loss, Time and Work, Time speed Distance, Areas and Mensuration, Averages, Permutations and Combinations, Probability, Plane geometry, Seating Arrangements, Sets, Progressions, Functions, Series, Coding, Truth and Lie based puzzles.
+Numbers ( Learn | Practice )
+LCM and HCF ( Learn | Practice LCM | Practice HCF )
+Work and Wages ( Learn | Practice )
+Pipes and Cisterns ( Learn | Practice )
+Time Speed Distance ( Learn | Practice )
+Trains, Boats and Streams ( Learn | Practice )
+Percentages ( Learn | Practice )
+Ratio Proportion and Partnership ( Learn | Practice )
+Mixtures and Alligation ( Learn | Practice )
+Algebra ( Learn | Practice )
+Age ( Learn | Practice )
+Profit and Loss ( Learn | Practice )
+Simple Interest ( Learn | Practice )
+Compound Interest ( Learn | Practice)
+Mensuration 2D ( Learn | Practice)
+Mensuration 3D ( Learn | Practice)
+Trigonometry & Height and Distances ( Learn | Practice )
+Progressions ( Learn | Practice )
+Logarithms ( Learn | Practice )
+Permutation and Combination ( Learn | Practice )
+Probability ( Learn | Practice )
+Clocks ( Learn | Practice )
+Calendars ( Learn | Practice)
+Race ( Learn | Practice )
+Simplification and Approximation ( Learn | Practice )
+Verbal Ability Test:
+The second section is the Verbal Ability test where the English and grammar ability is tested. There are 10-25 questions that need to be attempted in the given times. Important topics include Synonyms, Antonyms, Error Detection and Correction, Fill in the Blanks, Arranging the sentences, Comprehension Passages, etc.
+Passage/Sentence Rearrangement ( Learn )
+Error Detection and Correction ( Learn )
+Fill in the Blanks ( Learn )
+Comprehension Passages ( Learn )
+Logical Reasoning Ability Test:
+The third section is the Logical Reasoning Ability test where the logical thinking ability is tested. There are 10-25 questions that need to be attempted in the given times. Important topics include Series, Missing Numbers, Odd one out, Data Sufficiency, Assumptions and Conclusions, Puzzles, etc.
+Series: Missing Numbers, Odd One Out ( Learn | Practice )
+Data Sufficiency ( Learn | Practice )
+Assumptions and Conclusions, Courses of Action ( Learn | Practice )
+Puzzles ( Learn | Practice )
+Syllogism ( Learn | Practice )
+Cubes(Placement | Cubes)
+Coding Round: This is a technical coding round. This might be taken along with the Written round or after the Written round, based on the company. It consists of generally 1 to 2 questions to be done in the allotted time. Command Line Arguments are needed sometimes to solve these problems (Learn Taking Input using Command Line Arguments in C/C++). Below are a few common coding questions asked:
+Check Armstrong Number ( Using normal I/O, Using CLAs )
+Check Odd or Even ( Using normal I/O, Using CLAs )
+Fibonacci Series ( Using normal I/O, Using CLAs )
+Factorial of a Number ( Using normal I/O, Using CLAs )
+Average of 2 Numbers ( Using normal I/O, Using CLAs )
+HCF or GCD of 2 Numbers ( Using normal I/O, Using CLAs )
+LCM of 2 Numbers ( Using normal I/O, Using CLAs )
+Swap two Numbers ( Using normal I/O, Using CLAs )
+Concatenate 2 Strings ( Using normal I/O, Using CLAs )
+Greatest of 3 Numbers ( Using normal I/O, Using CLAs )
+Checking Leap Year ( Using normal I/O, Using CLAs )
+Checking Prime Number ( Using normal I/O, Using CLAs )
+Prime Numbers upto N ( Using normal I/O, Using CLAs )
+Sum of Digits of a number ( Using normal I/O, Using CLAs )
+Palindrome String ( Using normal I/O, Using CLAs )
+Reverse a String ( Using normal I/O, Using CLAs )
+Reverse a Number ( Using normal I/O, Using CLAs )
+Check Palindrome Number ( Using normal I/O, Using CLAs )
+Technical Interviews Round: The students who clear the written round are called for Technical Interview. There is no hard & fast rule for which questions will be asked in this round, you can expect questions on any topic depending on the panel. To clear this round you should be clear with your basics. You should be prepared with:
+Data structures and Algorithms, DBMS,
+Operating System,
+Networking,
+OOPs concepts and
+a programming language of your choice.
+Students from branches other than CS should prepare for the other two subjects related to their branch. CS students will be expected to write codes in the interview. You may be asked puzzles in this round. To be prepared for puzzles you can practice from our Puzzles section.
+
+Managerial Round: This round includes everything which was in Technical round plus it will be under pressure and a lot of cross-checking. Doubts will be raised on your answers to check if you can handle stress or not. Students may or may not be sent to this round depending on the feedback of the previous round. If the feedback of the previous round was good you may expect to directly been sent to HR round. Key for this round is to be calm, confident, clear on your thoughts and to not give up on the pressure. If you don’t know the answer you must try to attempt it with whatever you know.
+HR Round: This is the final round of the recruitment process. The interview panel can question you anything related to your personality, family, education, hobbies, internships, general knowledge, basic HR questions like Why should I hire you?, If any problem in relocation etc. The key here is to be confident about everything you speak.
